@@ -1,0 +1,6 @@
+fastapi==0.68.2
+sqlalchemy==1.4.22
+python-jose==3.3.0
+cloudinary==1.25.0
+qrcode==7.3
+uvicorn==0.15.0
